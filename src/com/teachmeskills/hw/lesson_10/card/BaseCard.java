@@ -1,7 +1,6 @@
 package com.teachmeskills.hw.lesson_10.card;
 
 import java.util.Objects;
-import java.util.Random;
 
 public class BaseCard {
 
